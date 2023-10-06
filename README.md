@@ -37,9 +37,6 @@ contained follows:
 * [0x1B. Web stack debugging #4](./0x1B-web_stack_debugging_4)
 * [Command Line for the Win](./command_line_for_the_win)
 
-## Author :black_nib:
-
-* __Brennan D Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
 
 ## Acknowledgements :pray:
 
